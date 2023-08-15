@@ -16,7 +16,9 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://laravel.com/img/logomark.min.svg" alt="Laravel"/></code>
-<code><img height="32" src="https://www.php.net/images/logos/php-logo-white.svg" alt="Laravel"/></code>
+<code><img height="32" src="https://www.php.net/images/logos/php-logo-white.svg" alt="PHP"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python"/></code>
+
 
 
 
@@ -27,12 +29,17 @@
 [<img id="acim" align="left" height="108px" width="256px" alt="ACIM" src="https://acim.org.br/wp-content/uploads/2022/02/logo-completa.png"/>](https://acim.org.br/)
 
 **Full-stack Developer (Jr)** \
-[**ACIM**](https://acim.org.br/) • Contract \
+[**ACIM**](https://acim.org.br/)  \
 Linguagens & Tecnologias: `JavaScript`, `Vue.js`, `PHP`, `Laravel`, `MySql`\
 Projetos em destaque: [Focus]()
 <br/><br/>
 
+[<img id="NoPing" align="left" height="108px" width="140px" alt="NoPing" src="https://static.wixstatic.com/media/206757_3d7746c544c847b491ff34b231fcfe6d~mv2.png/v1/fill/w_569,h_467,al_c/206757_3d7746c544c847b491ff34b231fcfe6d~mv2.png"/>]([https://noping.com/pt-br])
 
+**Full-stack Developer (Jr)** \
+[**NoPing**](https://noping.com/pt-br)  \
+Linguagens & Tecnologias:  `React`,`Python`, `PHP`, `Laravel`, `MySql`\
+<br/><br/>
 <br/>
 <br/>
 
