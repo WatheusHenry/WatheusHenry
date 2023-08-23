@@ -32,7 +32,6 @@
 **Full-stack Developer (Jr)** \
 [**ACIM**](https://acim.org.br/)  \
 Linguagens & Tecnologias: `JavaScript`, `Vue.js`, `PHP`, `Laravel`, `MySql`\
-Projetos em destaque: [Focus]()
 <br/><br/>
 
 [<img id="NoPing" align="left" height="108px" width="140px" alt="NoPing" src="https://static.wixstatic.com/media/206757_3d7746c544c847b491ff34b231fcfe6d~mv2.png/v1/fill/w_569,h_467,al_c/206757_3d7746c544c847b491ff34b231fcfe6d~mv2.png"/>]([https://noping.com/pt-br])
