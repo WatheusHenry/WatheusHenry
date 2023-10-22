@@ -1,7 +1,5 @@
 ### Alô?     Matheus falando :telephone_receiver:
 
-
-- Trabalhado atualmente na [NoPing](https://noping.com/) :chart_with_upwards_trend:
 - Estudando na UNIMAR no 4º período de Análise e desenvolvimento de sistemas :computer:
 - Pesquisando cada vez mais a respeito de design, UX/UI e Desenvolvimento Front-End ✏️
 
