@@ -29,14 +29,14 @@
 
 [<img id="acim" align="left" height="108px" width="256px" alt="ACIM" src="https://acim.org.br/wp-content/uploads/2022/02/logo-completa.png"/>](https://acim.org.br/)
 
-**Full-stack Developer (Jr)** \
+**Full-stack Developer** \
 [**ACIM**](https://acim.org.br/)  \
 Linguagens & Tecnologias: `JavaScript`, `Vue.js`, `PHP`, `Laravel`, `MySql`\
 <br/><br/>
 
 [<img id="NoPing" align="left" height="108px" width="140px" alt="NoPing" src="https://static.wixstatic.com/media/206757_3d7746c544c847b491ff34b231fcfe6d~mv2.png/v1/fill/w_569,h_467,al_c/206757_3d7746c544c847b491ff34b231fcfe6d~mv2.png"/>]([https://noping.com/pt-br])
 
-**Full-stack Developer (Jr)** \
+**Full-stack Developer** \
 [**NoPing**](https://noping.com/pt-br)  \
 Linguagens & Tecnologias:  `React`,`Python`, `PHP`, `Laravel`, `MySql`\
 <br/><br/>
