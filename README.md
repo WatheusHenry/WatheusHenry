@@ -18,7 +18,13 @@
 <code><img height="32" src="https://www.php.net/images/logos/php-logo-white.svg" alt="PHP"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python"/></code>
 
+### Trabalhando atualmente:
 
+[<img id="CIAg" align="left" height="100px" width="100px" alt="NoPing" src="https://media.licdn.com/dms/image/C4D0BAQGWJFRpX4BGrg/company-logo_200_200/0/1651075674105?e=2147483647&v=beta&t=oaDYP7QVU-XkokjxKucxg85qOY9m-tQJMnUEayYUCK8"/>]([https://noping.com/pt-br])
+
+**Estagiario** \
+[**CIAg**](https://www.ciag.org.br/#/)  \
+<br/><br/>
 
 
 
@@ -27,16 +33,12 @@
 
 [<img id="acim" align="left" height="108px" width="256px" alt="ACIM" src="https://acim.org.br/wp-content/uploads/2022/02/logo-completa.png"/>](https://acim.org.br/)
 
-**Full-stack Developer** \
+**Estagiario** \
 [**ACIM**](https://acim.org.br/)  \
 Linguagens & Tecnologias: `JavaScript`, `Vue.js`, `PHP`, `Laravel`, `MySql`\
 <br/><br/>
 
-[<img id="NoPing" align="left" height="108px" width="140px" alt="NoPing" src="https://static.wixstatic.com/media/206757_3d7746c544c847b491ff34b231fcfe6d~mv2.png/v1/fill/w_569,h_467,al_c/206757_3d7746c544c847b491ff34b231fcfe6d~mv2.png"/>]([https://noping.com/pt-br])
 
-**Full-stack Developer** \
-[**NoPing**](https://noping.com/pt-br)  \
-Linguagens & Tecnologias:  `React`,`Python`, `PHP`, `Laravel`, `MySql`\
 <br/><br/>
 <br/>
 <br/>
