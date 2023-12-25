@@ -1,6 +1,6 @@
 ### Alô?     Matheus falando :telephone_receiver:
 
-- Estudando na UNIMAR no 4º período de Análise e desenvolvimento de sistemas :computer:
+- Estudando na UNIMAR no 5º período de Análise e desenvolvimento de sistemas :computer:
 - Pesquisando cada vez mais a respeito de design, UX/UI e Desenvolvimento Front-End ✏️
 
 ### 🚀 Minhas Skills
