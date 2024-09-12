@@ -14,13 +14,6 @@
 <code><img height="32" src="https://www.php.net/images/logos/php-logo-white.svg" alt="PHP"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python"/></code>
 
-### Trabalhando atualmente:
-
-[<img id="CIAg" align="left" height="100px" width="100px" alt="NoPing" src="https://media.licdn.com/dms/image/C4D0BAQGWJFRpX4BGrg/company-logo_200_200/0/1651075674105?e=2147483647&v=beta&t=oaDYP7QVU-XkokjxKucxg85qOY9m-tQJMnUEayYUCK8"/>]([https://noping.com/pt-br])
-
-**Estagiario** \
-[**CIAg**](https://www.ciag.org.br/#/)  \
-<br/><br/>
 
 <br/><br/>
 
