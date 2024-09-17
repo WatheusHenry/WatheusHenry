@@ -10,8 +10,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" alt="TailWind"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://laravel.com/img/logomark.min.svg" alt="Laravel"/></code>
-<code><img height="32" src="https://www.php.net/images/logos/php-logo-white.svg" alt="PHP"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python"/></code>
 
 
